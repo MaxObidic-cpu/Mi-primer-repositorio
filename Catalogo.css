@@ -1,0 +1,112 @@
+* {font-family: calibri}
+
+body {						
+	background:#E6E6E6;
+	/* background:url(../Commercial Altas.jpg); */
+	 }
+
+h2,h3 {color: #000080;}
+
+i { font-family: "Times New Roman";}
+span { 
+		font-family: "Times New Roman";
+		font-size: 40px;
+		font-weight: bold; 
+		text-shadow: 1px 1px 1px #000;
+		text-align: center;
+		display: block;
+	}
+
+div img {
+	background: #ccc;
+	 width: 70;
+	}
+
+img { 
+	float: left;
+	}
+
+.clear{
+	clear: both;
+} 
+
+ul{
+	list-style: 
+}
+/*
+div {
+	width: 100px;
+	height: 100px;
+	background: #4A88F4;
+	color: rgb(255, 255, 255);
+	color: #ffffff
+	font-size: 15px;
+	float: left;
+	}
+*/
+
+.areas{
+	width: 300px;
+	background: #ffffff;
+	color: #000000;
+	margin: 20px 50px;
+	padding: 10px;
+	box-shadow: 5px 5px 5px #1d64a6;
+	float: left;
+	}
+}
+a {
+	height: 30px;
+	background: #4a88f4;
+	color: #ffffff;
+	padding: 10px 10px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	box-shadow: 5px 5px 5px #1d64a6;
+  }
+
+a: link {
+  	background: #4a88f4;
+	color: #ffffff;  
+	}
+
+a:hover {
+	background: #000;
+	color: #ffffff;
+	box-shadow: 1px 1px 1px #1d64a6;
+	border-radius: 5px;
+}
+
+article {
+	width: 800px;
+	background: #ffffff;
+	color: #000000;
+	margin: 20px 50px;
+	padding: 10px;
+	box-shadow: 5px 5px 5px #1d64a6;
+	}
+
+aside {
+ 	width: 400px;
+ 	background: orange;
+	color: #000000;
+	margin: 0px 30px;
+	padding: 10px;
+	float: right;
+	/* position: relative;
+	top:; */
+	bottom:998px ;
+	/*
+	right: ;
+	left: 825px; */
+	box-shadow: 5px 5px 5px #1d64a6;
+	  	}
+ footer {
+	height: 50px;
+ 	background:#000000;
+	color: #ffffff;
+	text-align: center;
+	margin: 20px 50px;
+	padding: 10px;
+		}
